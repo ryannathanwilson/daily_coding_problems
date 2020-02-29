@@ -1,0 +1,20 @@
+body {
+    font: 15px arial, sans-serif;
+    padding: 0 20px;
+}
+
+#problem {
+    display: block;
+    width: 600px;
+    padding: 5px 20px;
+    border: 1px solid #c9c7c7;
+    background-color: #eeeded;
+}
+
+pre {
+    display: block;
+    width: 636px;
+    overflow: hidden;
+    padding: 20px;
+    border: 1px solid #c9c7c7;
+}
