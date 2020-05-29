@@ -5,7 +5,7 @@ body {
 
 #problem {
     display: block;
-    width: 600px;
+    width: 700px;
     padding: 5px 20px;
     border: 1px solid #c9c7c7;
     background-color: #eeeded;
@@ -13,7 +13,7 @@ body {
 
 pre {
     display: block;
-    width: 636px;
+    width: 736px;
     overflow: hidden;
     padding: 20px;
     border: 1px solid #c9c7c7;
